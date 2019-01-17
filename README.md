@@ -1,6 +1,6 @@
 # Pykinect Video basics
 
-These programs show some basic video functions with the Kinect V2 and Pykinec2
+These programs show some basic video functions with the Kinect V2 and PykinecT2
 
 1.Kinect ColorXY.py: Is just the color stream from the Kinect. 
 If you left and right click on the video stream you get back the X,Y cordinates and the RGB values of the pixel clicked on.
