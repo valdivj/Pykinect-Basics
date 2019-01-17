@@ -1,7 +1,7 @@
 # Pykinect Video basics
 
 These programs show some basic video functions with the Kinect V2 and PykinecT2.
-You have to have the Kinect API installed for the KinectV2 installed.
+You have to have the Kinect API installed for the KinectV2.
 I belive that this only works on windows PC,s
 
 1.Kinect ColorXY.py: Is just the color stream from the Kinect. 
